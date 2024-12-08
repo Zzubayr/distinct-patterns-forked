@@ -5,6 +5,7 @@ import ImageCarousel from "../components/ImageCarousel";
 import New from "../components/New";
 import Style from "../components/Style";
 import Footer from "../components/Footer";
+
 import Meet from "../components/Meet";
 export default function Page() {
   return (
